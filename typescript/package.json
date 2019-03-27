@@ -1,0 +1,12 @@
+{
+    "name": "@sureshot/lunch-n-learn-1",
+    "private": true,
+    "scripts": {
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "@types/node": "11.11.4",
+        "typescript": "3.3.4000",
+        "ts-node": "8.0.3"
+    }
+}
